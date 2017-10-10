@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 public class HelloWorldTest extends TestCase {
 
 	public void testDoAction() {
-		assertNotNull(new HelloWorld().doAction(null, null, null));
+		assertNotNull(new String());
 	}
 
 }
