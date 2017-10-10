@@ -9,7 +9,7 @@ public class HelloWorld implements ICustomAction
 	
 	  //ActionResult actionResult = null;
 	  
-	   return new ActionResult(ActionResult.STRING,"Hello World  new");
+	   return new ActionResult(ActionResult.STRING,"WELCOME User!");
 	  
   }
 }
