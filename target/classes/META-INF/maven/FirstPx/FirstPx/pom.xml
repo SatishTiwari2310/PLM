@@ -30,9 +30,15 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.2</version>
+			<version>4.10</version>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.sqoop/sqoop -->
+<dependency>
+    <groupId>org.apache.sqoop</groupId>
+    <artifactId>sqoop</artifactId>
+    <version>1.4.0-incubating</version>
+</dependency>
 		<dependency>
 			<groupId>com.agile</groupId>
 			<artifactId>AgileAPI</artifactId>
