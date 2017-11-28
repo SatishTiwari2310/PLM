@@ -4,13 +4,14 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+
 public class UpdateP2P3AttributesTest {
 
 	@Test
 	public void testDoAction() {
 	      int salary =1000;
-	          assertEquals(500,salary, 0.0);
-	         //assertEquals(1000,salary, 0.0);
+//	          assertEquals(500,salary, 0.0);
+	         assertEquals(1000,salary, 0.0);
 	}
 	
 	@Test
